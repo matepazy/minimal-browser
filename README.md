@@ -7,7 +7,8 @@ A browser that lets you... well... browse the internet. Nothing else. We've had 
 - Default **DuckDuckGo** search engine
 - Navigate forward and backwards
 - Zoom (Ctrl + scroll)
-- Low memory
+- Low memory usage
+- Invisible browser history
 
  # Problems
  - Since this is browser like in the good old day, it might not support some JavaScript and CSS features.

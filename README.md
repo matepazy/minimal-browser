@@ -14,7 +14,7 @@ A browser that lets you... well... browse the internet. Nothing else. We've had 
  - YouTube is quite unuseable, so this isn't for watching content.
 
 # Requirements
-## If you want to build on top of it
+*If you want to build on top of it*
 ```py
 pip install PyQt5 PyQtWebEngine
 ```
